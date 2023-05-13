@@ -18,7 +18,8 @@ li {
 }
 
 .links {
-    background-color: #282828;
+    background-color: #1d2021;
+    border-radius: 20px;
 }
 
 .headings {
@@ -27,7 +28,7 @@ li {
 }
 
 .main-box {
-    background-color: #1d2021;
+    background-color: #131516;
     display: flex;
     justify-content: center;
     align-items: center;
